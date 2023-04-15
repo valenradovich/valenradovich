@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valenradovich
-- 👀 I’m interested and currently learning Data Science, Machine Learning and AI
+- 👀 I’m interested and currently learning about Software Development.
 - 🌐 Website [here](https://valenradovich.github.io/)
 
 <!---
