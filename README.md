@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valenradovich
-- 👀 I’m interested and currently learning about Software Development.
+- 👀 I’m a Software Developer
 - 🌐 Website [here](https://valenradovich.github.io/)
 
 <!---
