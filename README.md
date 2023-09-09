@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @valenradovich
-- 👀 I’m a Software Developer
-- 🌐 Website [here](https://valenradovich.netlify.app)
+### - 👋 Hi, my name is Valentin Fernandez Radovich
+### - 👀 I’m a Data Scientist 
+### - 🌐 Website soon
 
 <!---
 valenradovich/valenradovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
