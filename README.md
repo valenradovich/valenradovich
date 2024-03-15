@@ -1,5 +1,5 @@
 ### - 👋 Hi, my name is Valentin Fernandez Radovich
-### - 👀 I’m a Data Scientist 
+### - 👀 I’m a Machine Learning Engineer and Data Scientist 
 ### - 🤝 You can reach me [clicking here](https://www.linkedin.com/in/valentin-fernandez-radovich/)
 
 <!---
