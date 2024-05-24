@@ -1,8 +1,3 @@
-### - 👋 Hi, my name is Valentin Fernandez Radovich
-### - 👀 I’m a Machine Learning Engineer and Data Scientist 
-### - 🤝 You can reach me [clicking here](https://www.linkedin.com/in/valentin-fernandez-radovich/)
+Developing Machine Learning and AI solutions :)
 
-<!---
-valenradovich/valenradovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My email if you need to contact me is: me@valenradovich.tech
