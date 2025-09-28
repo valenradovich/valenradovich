@@ -12,4 +12,5 @@ if you wanna chat or just read some of my thoughts, feel free to reach me on [X 
 - [Tote](https://x.com/software_valen/status/1898735605212762296): Built in less than 24hs in a hackathon. Shopping but effortless. 
 - [Neighborhood Discovery](https://x.com/software_valen/status/1874193625086869837): I was about to move to a new city, so I needed to know what was near my apartment.
 - [Treasy](https://x.com/software_valen/status/1916659209871007983): Built an app to organize my Europe trip easily.
+- [ThinkTok](https://apps.apple.com/us/app/thinktok/id6751865854): Show that you are the smartest, test your knowledge across 5 categories with friends on global leaderboards.
 
