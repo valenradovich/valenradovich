@@ -1,6 +1,5 @@
-**software engineer — working on ai and machine learning :)**
+software engineer building ai/ml products—obsessed with user experience, simplicity, and shipping fast.
 
-i like to build stuff all the time that transforms raw and complex ideas into simple products
 
 if you wanna chat or just read some of my thoughts, feel free to reach me on [X (twitter)](https://x.com/software_valen) or via [hi@valentinradovich.com](hi@valentinradovich.com)
 
