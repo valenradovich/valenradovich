@@ -1,4 +1,4 @@
-reckless, lean, obsessive doer that wants to win. driven by user experience, simplicity, and moving fast.
+reckless, lean, obsessive doer that wants to win. engineer driven by craft, user experience, simplicity, and moving fast.
 
 [X](https://x.com/software_valen) — [email](mailto:hi@valentinradovich.com) — [posts](https://valentinradovich.com/posts) — [website](https://valentinradovich.com)
 
