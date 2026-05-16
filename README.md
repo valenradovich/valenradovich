@@ -1,10 +1,9 @@
-software engineer building ai/ml products—obsessed with user experience, simplicity, and shipping fast.
+reckless, lean, obsessive doer that wants to win. driven by user experience, simplicity, and moving fast.
 
-
-if you wanna chat or just read some of my thoughts, feel free to reach me on [X (twitter)](https://x.com/software_valen) or via [hi@valentinradovich.com](hi@valentinradovich.com)
+[X](https://x.com/software_valen) — [email](mailto:hi@valentinradovich.com) — [posts](https://valentinradovich.com/posts) — [website](https://valentinradovich.com)
 
 ---
-**some of my side projects**
+**stuff i've done**
 - [Grammaring](https://www.raycast.com/valenradovich/grammaring): Fix grammar, verify facts, and answer questions, all while maintaining your personal style of writing.
 - [Nextsift](https://nextsift.com): The internet's best content, one search away.
 - [Vibes & Movies](https://www.vibesnmovies.com/): Explain how you feel as if you were talking to a friend, and watch the movie that represents you the most.
