@@ -2,6 +2,8 @@ reckless, lean, obsessive doer that wants to win. engineer driven by craft, user
 
 [X](https://x.com/software_valen) — [email](mailto:hi@valentinradovich.com) — [posts](https://valentinradovich.com/posts) — [website](https://valentinradovich.com)
 
+currently building [Melian](https://apps.apple.com/us/app/melian-discover-unique-brands/id6738385324)
+
 ---
 **stuff i've done**
 - [Grammaring](https://www.raycast.com/valenradovich/grammaring): Fix grammar, verify facts, and answer questions, all while maintaining your personal style of writing.
